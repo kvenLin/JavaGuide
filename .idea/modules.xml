@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java相关/Java相关.iml" filepath="$PROJECT_DIR$/Java相关/Java相关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/主流框架/主流框架.iml" filepath="$PROJECT_DIR$/主流框架/主流框架.iml" />
+      <module fileurl="file://$PROJECT_DIR$/其他/其他.iml" filepath="$PROJECT_DIR$/其他/其他.iml" />
+      <module fileurl="file://$PROJECT_DIR$/操作系统/操作系统.iml" filepath="$PROJECT_DIR$/操作系统/操作系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" filepath="$PROJECT_DIR$/数据结构与算法/数据结构与算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/架构/架构.iml" filepath="$PROJECT_DIR$/架构/架构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/计算机网络与数据通信/计算机网络与数据通信.iml" filepath="$PROJECT_DIR$/计算机网络与数据通信/计算机网络与数据通信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/面试必备/面试必备.iml" filepath="$PROJECT_DIR$/面试必备/面试必备.iml" />
+    </modules>
+  </component>
+</project>
